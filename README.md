@@ -1,1 +1,1 @@
-# newProject
+# AI-Resume-Analyzer
